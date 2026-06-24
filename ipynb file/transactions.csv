@@ -1,0 +1,14 @@
+Name,Card_Number,Amount,Location,Date,Result
+Rakesh Kumar,831098933210,5500.0,Online,2026-05-08,Safe Transaction
+Chirag H,973640863818,25000.0,Online,2026-05-08,Safe Transaction
+Prajwal.B,151540258800,65000.0,Online,2026-05-08,Fraudulent Transaction
+kishan,165464546843,3000.0,Online,2026-05-08,Safe Transaction
+darshan d,381840869736,25000.0,Online,2026-06-05,Safe Transaction
+Chirag H,947764880420,35000.0,Online,2026-06-05,Fraudulent Transaction
+kishan,12458697258001,2500.0,Online,2026-06-10,Safe Transaction
+kishan,12458697258001,900.0,Online,2026-06-10,Safe Transaction
+Chirag H,947764880420,2000.0,Online,2026-06-10,Safe Transaction
+Test,1234,1000.0,Online,2026-06-11,Safe Transaction
+Test,1234,1000.0,Online,2026-06-11,Safe Transaction
+Darshan D,381840869736,25000.0,Online,2026-06-11,Safe Transaction
+Chirag,997270886812,35000.0,Online,2026-06-11,Fraudulent Transaction
